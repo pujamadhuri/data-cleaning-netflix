@@ -9,29 +9,29 @@ Dataset:
 
 Source: Kaggle - Netflix Movies and TV Shows Titles
 Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
-Format: CSV
-Records: ~8,800 Titles
+Format: CSV,
+Records: ~8,800 Titles,
 Key Columns:
-show_id
-type
-Title
-director
-cast
-country
-date_added
-release_year
-rating
-duration_minutes
-duration_season
-listed_in
-description
+show_id,
+type,
+Title,
+director,
+cast,
+country,
+date_added,
+release_year,
+rating,
+duration_minutes,
+duration_season,
+listed_in,
+description.
 Note: Raw dataset is not included in this repository. 
 
 Tools & Technologies:
-Datbase: MySQL
-Language: SQL
+Datbase: MySQL,
+Language: SQL,
 Environment: MySQL Workbench,
-Version Control: Git & GitHub
+Version Control: Git & GitHub.
 
 Project Structure:
 cleaned_data_set folder contains the final cleaned dataset CSV 
@@ -71,11 +71,14 @@ Perform deeper exploratory data analysis(EDA), such as trends in content added b
 Create visualizations like charts, graphs and dashboards using Tableau or PowerBI.
 
 Author:
+
 Puja Madhuri K
-Aspiring Data Analyst
+
+Aspiring Data Analyst,
+
 GitHub Link: https://github.com/pujamadhuri/data-cleaning-netflix
 
-Acknowledgments: Netflix dataset from Kaggle
+Acknowledgments: Netflix dataset from Kaggle,
 MySQL documentation.
 
 
